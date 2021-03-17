@@ -1,0 +1,1 @@
+# selector-derrivada-device
